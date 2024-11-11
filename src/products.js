@@ -1,5 +1,7 @@
 import imgChocolateChipCookie from "./chocolateChipWalnut.jpeg"
 import imgDarkChoclateCookie from "./darkChocolateChip.jpg"
+import imgOatmealRaisinCookie from "./oatmealRaisinCookie.jpeg"
+import imgChocolatePeBuChipCookie from "./darkChocoPeBuCookie.jpeg"
 
 const products = [
     {
@@ -13,14 +15,14 @@ const products = [
       image: imgDarkChoclateCookie, 
     },
     {
-      name: "Dark Chocolate Cookie",
+      name: "Oatmeal Raisin Cookie",
       price: "1 KD",
-      image: imgDarkChoclateCookie, 
+      image: imgOatmealRaisinCookie, 
     },
     {
-      name: "Dark Chocolate Cookie",
+      name: "Dark Chocolate Peanut Butter Cookie",
       price: "1 KD",
-      image: imgDarkChoclateCookie, 
+      image: imgChocolatePeBuChipCookie, 
     }
   ];
   
